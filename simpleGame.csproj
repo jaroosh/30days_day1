@@ -17,13 +17,17 @@
     <IISExpressUseClassicPipelineMode />
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="app.css" />
+    <Content Include="Assets\CSS\8Bit\8-bit_wonder-webfont.svg" />
+    <Content Include="Assets\CSS\app.css" />
     <Content Include="Assets\Textures\entities.png" />
     <Content Include="Assets\Textures\entities.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="default.htm" />
     <Content Include="packages.config" />
+    <Content Include="Assets\CSS\8Bit\8-bit_wonder-webfont.eot" />
+    <Content Include="Assets\CSS\8Bit\8-bit_wonder-webfont.ttf" />
+    <Content Include="Assets\CSS\8Bit\8-bit_wonder-webfont.woff" />
     <None Include="Scripts\jquery-2.1.0.intellisense.js" />
     <Content Include="Scripts\jquery-2.1.0.js" />
     <Content Include="Scripts\jquery-2.1.0.min.js" />
