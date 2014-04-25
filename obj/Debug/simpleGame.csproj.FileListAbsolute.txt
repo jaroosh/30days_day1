@@ -1,0 +1,7 @@
+C:\Projects\strangeGame\simpleGame\simpleGame\bin\simpleGame.dll.config
+C:\Projects\strangeGame\simpleGame\simpleGame\bin\simpleGame.dll
+C:\Projects\strangeGame\simpleGame\simpleGame\bin\simpleGame.pdb
+C:\Projects\strangeGame\simpleGame\simpleGame\obj\Debug\simpleGame.csprojResolveAssemblyReference.cache
+C:\Projects\strangeGame\simpleGame\simpleGame\obj\Debug\simpleGame.dll
+C:\Projects\strangeGame\simpleGame\simpleGame\obj\Debug\simpleGame.pdb
+C:\Projects\strangeGame\simpleGame\simpleGame\bin\Assets\Textures\entities.json
